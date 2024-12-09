@@ -1,3 +1,4 @@
 SCHEDULE
 
 Date: 02/12/2024 - Time spent: 15m - Task: Setup project/repo && Read docs: (https://docs.expo.dev/get-started/start-developing/)
+Date: 10/12/2024 - Time spent: 15m - Task: Add mock data
